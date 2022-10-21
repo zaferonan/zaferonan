@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zafer ONAN
-- 👀 I’m interested in Java
+- 👀 I’m interested in Java Back-end Developing
 - 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me : https://www.linkedin.com/in/zafer-onan/
 
